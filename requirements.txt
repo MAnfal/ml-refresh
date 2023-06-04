@@ -5,3 +5,4 @@ graphviz
 torch 
 torchvision 
 torchaudio
+notebook
